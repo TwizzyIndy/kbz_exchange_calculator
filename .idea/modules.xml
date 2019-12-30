@@ -2,7 +2,7 @@
 <project version="4">
   <component name="ProjectModuleManager">
     <modules>
-      <module fileurl="file://$PROJECT_DIR$/.idea/kbz_exchange_calulator.iml" filepath="$PROJECT_DIR$/.idea/kbz_exchange_calulator.iml" />
+      <module fileurl="file://$PROJECT_DIR$/../kbz_exchange_calculator/.idea/kbz_exchange_calculator.iml" filepath="$PROJECT_DIR$/../kbz_exchange_calculator/.idea/kbz_exchange_calculator.iml" />
     </modules>
   </component>
 </project>

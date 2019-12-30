@@ -7,4 +7,4 @@ _usage:_
 python3 kbz_exchange_calulator.py {USD}
 ```
 
-![Screenshot](https://github.com/TwizzyIndy/kbz_exchange_calulator/raw/master/screenshot.png "Screenshot")
+![Screenshot](https://github.com/TwizzyIndy/kbz_exchange_calculator/raw/master/screenshot.png "Screenshot")

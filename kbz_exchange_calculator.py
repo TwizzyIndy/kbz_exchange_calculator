@@ -128,7 +128,7 @@ def usage():
     print("(just used internal api. im not owner of any properties related to KBZ Company Ltd.,)")
     print("")
     print("usage:")
-    print("python3 kbz_exchange_calulator.py {USD}")
+    print("python3 kbz_exchange_calculator.py {USD}")
     print("")
     print("")
 
