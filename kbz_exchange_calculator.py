@@ -52,7 +52,7 @@ def sell_usd_to_mmk(input_usd):
         lblMMK = lblRoot[3].attrib['v']
         # lblUpdateTime = lblRoot[4].attrib['v']
 
-        print("Sell : ")
+        print("Buy (Transfer): ")
         print(lblMMK.split('=')[1].strip())
 
         # print(lblUpdateTime)
@@ -109,7 +109,7 @@ def buy_usd_to_mmk(input_usd):
         lblMMK = lblRoot[3].attrib['v']
         lblUpdateTime = lblRoot[4].attrib['v']
 
-        print("Buy : ")
+        print("Buy (Cash) : ")
         print(lblMMK.split('=')[1].strip())
         print("")
 
