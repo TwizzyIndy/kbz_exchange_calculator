@@ -6,3 +6,5 @@ _usage:_
 ```bash
 python3 kbz_exchange_calulator.py {USD}
 ```
+
+![Screenshot](https://github.com/TwizzyIndy/kbz_exchange_calulator/raw/master/screenshot.png "Screenshot")
