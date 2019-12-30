@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<F xmlns:str="http://exslt.org/strings">
+<H xmlns:java="http://xml.apache.org/xslt/java" actid="N" t="0"/>
+
+<T tp="" s="Y" dRX="" dH="" dW="" dP="0,0,0,0" dM="0,0,0,0" g="" pid="" id="RRFEC621" l="K_BACK_TABLE" t="S">
+<B bgi="" ref="" pi="" tgtid="" actid="" dRX="" rd="" dH="" dW="" dP="" dM="" g="" a="" s="def" r="" t="b" id="RRFEC62fldback" n="fldback" pr="" h="" bt="0" b=""/>
+<L bgi="" p="" lw="" lg="" t="" brpos="" bpos="" bd="" dRX="" dH="" dW="" dP="" dM="" g="ColorGrey,FontSize14" l="Foreign Exchange Result" id="RRFEC62fldheaderlbll" n="fldheaderlbll" bt="0"/>
+</T>
+
+<T tp="" s="N" dRX="" dH="1" dW="" dP="0,0,0,0" dM="8,8,8,8" g="TSubContainer" pid="RRFEC621" id="RRFEC622" l="" t="S">
+<NT tp="" pid="RRFEC622" id="RRFEC62" g="BgColorDarkBlue" dP="0.000000" dM="0,0,0,0" dH="" dW="" t="">
+<L bgi="" p="" lw="" lg="" t="" brpos="" bpos="" bd="" dRX="" dH="" dW="" dP="0,0,0,0" dM="4,0,4,4" g="ColorWhite,FontSize12" l="FOREIGN EXCHANGE RESULT" id="RRFEC62fldpurposelbl" n="fldpurposelbl" bt="0"/>
+</NT>
+
+<NT tp="" pid="RRFEC622" id="RRFEC623" g="" dP="" dM="" dH="" dW="" t="V">
+<L bgi="" p="" lw="" lg="" t="" brpos="" bpos="" bd="" dRX="" dH="" dW="" dP="0,0,0,0" dM="24,0,0,0" g="TextAlignCenter,FontSize16,ColorDarkGrey,FontStyleBold" l="Calculate Currency Rate" id="RRFEC62fldlbl" n="fldlbl" bt="0"/>
+<L p="" bgi="WORLD_PIC" dRX="" dH="" dW="" dP="0,0,0,0" dM="0,0,8,0" g="VCenter,TItemHeight" t="s" l="" id="RRFEC62loginpolicy" n="loginpolicy" bt="0"/>
+<L bgi="" p="" lw="" lg="" t="" brpos="" bpos="" bd="" dRX="" dH="" dW="" dP="0,0,0,0" dM="50,0,0,0" g="FontSize22,ColorBlue,FontStyleBold,TextAlignCenter" v="100 USD = 147800.00 MMK" id="RRFEC62fldcalcdiv" n="fldcalcdiv" bt="0" l=""/>
+</NT>
+
+<NT tp="" pid="RRFEC622" id="RRFEC625" g="" dP="" dM="8,8,16,8" dH="0" dW="" t="">
+<L bgi="" p="" lw="" lg="" t="" brpos="" bpos="" bd="" dRX="" dH="" dW="" dP="0,0,0,0" dM="0,16,20,16" g="ColorDarkGrey,FontSize14" v="Above is the KBZ Bank Exchange Rates for 30-Dec-2019.&#10;&#10;The Transfer Rate/Earning Rate may vary from the Exchange Counter Rates." id="RRFEC62flddate" n="flddate" bt="0" l=""/>
+</NT>
+</T>
+
+<T tp="" s="N" dRX="" dH="0" dW="" dP="0,0,0,0" dM="0,8,8,8" g="" pid="RRFEC621" id="RRFEC626" l="K_BACK_TABLE" t="S">
+<B bgi="" ref="" pi="" tgtid="" actid="V" dRX="" rd="false" dH="" dW="" dP="0,0,0,0" dM="0,0,0,0" g="Submitbut" a="Submitbut" s="" r="RRFEC61" t="rt" l="RE-CALCULATE" id="RRFEC62fldrecalculate" n="fldrecalculate" pr="" h="" bt="0" b=""/>
+</T>
+<I v="CALCULATOR" n="fldtxnheading" t="h"/>
+</F>
