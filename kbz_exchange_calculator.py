@@ -121,7 +121,7 @@ def buy_usd_to_mmk(input_usd):
 
 def usage():
     print("")
-    print("KBZ Foreign Exchange Calulator")
+    print("KBZ Foreign Exchange Calculator")
     print("by TwizzyIndy")
     print("12/2019")
     print("")
